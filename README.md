@@ -12,3 +12,6 @@ Ejecutar paso a paso con el botón Single Step (F10) y ver el panel Int Regs a l
 Run (F5) lo ejecuta completo; la salida sale en la ventana Console.
 
 Desde terminal: spim -file hello.asm
+
+
+Link al video https://youtu.be/sC61j4FV_Ts
